@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine learning
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on interesting projects
-- 📫 How to reach me @[not yet]
+- 📫 How to reach me [contact@hazemhussien.xyz]
 
 <!---
 Haze-sh/Haze-sh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

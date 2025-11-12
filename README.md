@@ -2,9 +2,9 @@
 - 👷 I work as a DevOps Engineer
 - 👀 I’m interested in and currently learning AI/Machine Learning
 - 💞️ I’m open to collaborate on interesting projects!
-- 📫 You can Email me on [![Send me Email](https://img.shields.io/static/v1?label=email&message=contact@hazemhussien.xyz&color=blue&style=flat-square)](mailto:contact@hazemhussien.xyz)
+- 📫 You can Email me on [![Send me Email](https://img.shields.io/static/v1?label=email&message=hazemhussien@tutamail.com&color=blue&style=flat-square)](mailto:hazemhussien@tutamail.com)
 - :key: [![PGP Key](https://img.shields.io/static/v1?label=PGP&message=FB76D70DACB6D7A420B0D7AD33B8E38DA567CB09&color=blue&style=flat-square)](https://keys.openpgp.org/search?q=FB76D70DACB6D7A420B0D7AD33B8E38DA567CB09)
-- 🌐 [Personal Website](https://hazemhussien.xyz/)
+- 🌐 [Personal Website](https://haze-sh.github.io/)
 
 <!---
 Haze-sh/Haze-sh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
